@@ -7324,7 +7324,7 @@ textarea.form-control-lg {
 }
 
 .mt-auto {
-  margin-top: auto !important;
+  margin-top: 10px;
 }
 
 .me-0 {

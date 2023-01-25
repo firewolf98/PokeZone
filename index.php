@@ -14,6 +14,8 @@
         <link href="css/styles.css" rel="stylesheet" />
     </head>
     <body>
+        <!-- Test-->
+        <?php include 'model/DBConnector.php'?>
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
             <div class="container px-4 px-lg-5">
@@ -33,11 +35,9 @@
                             </ul>
                         </li>
                     </ul>
-                    <form class="d-flex">
+                    <form class="d-flex" action="view/pages/registration.php">
                         <button class="btn btn-outline-dark" type="submit">
-                            <i class="bi-cart-fill me-1"></i>
-                            Cart
-                            <span class="badge bg-dark text-white ms-1 rounded-pill">0</span>
+                            Sign Up
                         </button>
                     </form>
                 </div>
