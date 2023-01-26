@@ -27,24 +27,21 @@
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <!-- Product name-->
-                                    <h5 class="fw-bolder">Create your account</h5>
+                                    <h5 class="fw-bolder">Login</h5>
                                     
                                 </div>
                             </div>
                             <!-- Product actions-->
                             <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                                <div class="text-center" >
+                                <form class="text-center" method="POST" action="../../model/user/login.php">
                                     <label for='email'>Email:</label>
                                     <input type='email' name='email' id='email' required placeholder="Email"/>
                                     <span class="error" id='errorEmail' style="color:red"></span><br>
                                     <label for='password'>Password:</label>
                                     <input type='password' name='pw' id='pw' required placeholder="Password"/>
-                                    <span class="error" id="errorPw" style="color:red"></span><br>
-                                    <label for='confirmPassword'>Confirm Password:</label>
-                                    <input type='password' name='pw' id='cpw' required placeholder="Confirm Password"/>
-                                    <span class="error" id="errorCpw" style="color:red"></span><br><br>
-                                    <input type='submit' class="btn btn-outline-dark mt-auto" value="Register" onclick="insertPerson()">
-                                </div>
+                                    <span class="error" id="errorPw" style="color:red"></span><br><br>
+                                    <input type='submit' class="btn btn-outline-dark mt-auto" value="Login">
+                                </form>
                             </div>
                         </div>
                     </div>
@@ -57,32 +54,8 @@
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
         <!-- Core theme JS-->
 
-        <script src="../js/validateRegistration.js"></script>
+        
 
-        <script>
-            function insertPerson() {
-                if(validateUser()) {
-                    const formData = new FormData();
-                    formData.append('email', document.querySelector('#email').value);
-                    formData.append('pw', document.querySelector('#pw').value);
-                    fetch('../../model/user/insert.php', {
-                        method: 'POST',
-                        header: {
-                            'Content-Type': 'application/json'
-                        },
-                        body: formData
-                    })
-                    .then(response => response.json())
-                    .then(data => {
-                        console.log(data);
-                    })
-                    .catch((error) => {
-                        console.error("Error: ", error);
-                    })
-                }
-            }
-            
-
-        </script>
+        
     </body>
 </html>
