@@ -1,0 +1,2074 @@
+{
+	"games":[
+		{
+			"id" : "0",
+			"name" : "Yellow",
+			"platform" : "Game Boy"
+		},
+		{
+			"id" : "1",
+			"name" : "Red",
+			"platform" : "Game Boy"
+		},
+		{
+			"id" : "2",
+			"name" : "Blue",
+			"platform" : "Game Boy"
+		},
+		{
+			"id" : "3",
+			"name" : "Silver",
+			"platform" : "Game Boy Color"
+		},	
+		{
+			"id" : "4",
+			"name" : "Gold",
+			"platform" : "Game Boy Color"
+		},
+		{
+			"id" : "5",
+			"name" : "Crystal",
+			"platform" : "Game Boy Color"
+		},
+		{
+			"id" : "6",
+			"name" : "Ruby",
+			"platform" : "Game Boy Advance"
+		},
+		{
+			"id" : "7",
+			"name" : "Sapphire",
+			"platform" : "Game Boy Advance"
+		},
+		{
+			"id" : "8",
+			"name" : "FireRed",
+			"platform" : "Game Boy Advance"
+		},
+		{
+			"id" : "9",
+			"name" : "LeafGreen",
+			"platform" : "Game Boy Advance"
+		},
+		{
+			"id" : "10",
+			"name" : "Emerald",
+			"platform" : "Game Boy Advance"
+		},
+		{
+			"id" : "11",
+			"name" : "Diamond",
+			"platform" : "Nintendo DS"
+		},
+		{
+			"id" : "12",
+			"name" : "Pearl",
+			"platform" : "Nintendo DS"
+		},
+		{
+			"id" : "13",
+			"name" : "Platinum",
+			"platform" : "Nintendo DS"
+		},
+		{
+			"id" : "14",
+			"name" : "HeartGold",
+			"platform" : "Nintendo DS"
+		},
+		{
+			"id" : "15",
+			"name" : "SoulSilver",
+			"platform" : "Nintendo DS"
+		},
+		{
+			"id" : "16",
+			"name" : "Black",
+			"platform" : "Nintendo DS"
+		},
+		{
+			"id" : "17",
+			"name" : "White",
+			"platform" : "Nintendo DS"
+		},
+		{
+			"id" : "18",
+			"name" : "Black 2",
+			"platform" : "Nintendo DS"
+		},
+		{
+			"id" : "19",
+			"name" : "White 2",
+			"platform" : "Nintendo DS"
+		},
+		{
+			"id" : "20",
+			"name" : "X",
+			"platform" : "Nintendo 3DS"
+		},
+		{
+			"id" : "21",
+			"name" : "Y",
+			"platform" : "Nintendo 3DS"
+		},
+		{
+			"id" : "22",
+			"name" : "Omega Ruby",
+			"platform" : "Nintendo 3DS"
+		},
+		{
+			"id" : "23",
+			"name" : "Alpha Sapphire",
+			"platform" : "Nintendo 3DS"
+		},
+		{
+			"id" : "24",
+			"name" : "Sun",
+			"platform" : "Nintendo 3DS"
+		},
+		{
+			"id" : "25",
+			"name" : "Moon",
+			"platform" : "Nintendo 3DS"
+		},
+		{
+			"id" : "26",
+			"name" : "Ultra Sun",
+			"platform" : "Nintendo 3DS"
+		},
+		{
+			"id" : "27",
+			"name" : "Ultra Moon",
+			"platform" : "Nintendo 3DS"
+		},
+		{
+			"id" : "28",
+			"name" : "Let's Go, Pikachu!",
+			"platform" : "Nintendo Switch"
+		},
+		{
+			"id" : "29",
+			"name" : "Let's Go, Eevee!",
+			"platform" : "Nintendo Switch"
+		},
+		{
+			"id" : "30",
+			"name" : "Sword",
+			"platform" : "Nintendo Switch"
+		},
+		{
+			"id" : "31",
+			"name" : "Shield",
+			"platform" : "Nintendo Switch"
+		},
+		{
+			"id" : "32",
+			"name" : "Brilliant Diamond",
+			"platform" : "Nintendo Switch"
+		},
+		{
+			"id" : "33",
+			"name" : "Shining Pearl",
+			"platform" : "Nintendo Switch"
+		},
+		{
+			"id" : "34",
+			"name" : "Legends: Arceus",
+			"platform" : "Nintendo Switch"
+		},
+		{
+			"id" : "35",
+			"name" : "Scarlet",
+			"platform" : "Nintendo Switch"
+		},
+		{
+			"id" : "36",
+			"name" : "Violet",
+			"platform" : "Nintendo Switch"
+		}
+	],
+	"pokemon":[
+		{
+			"nPokedex" : "1",
+			"name" : "Bulbasaur",
+			"type1" : "Grass",
+			"type2" : "Poison",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/d/de/Artwork001_RFVF.png/300px-Artwork001_RFVF.png"
+		},
+		{
+			"nPokedex" : "2",
+			"name" : "Ivysaur",
+			"type1" : "Grass",
+			"type2" : "Poison",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/5/5f/Artwork002_RFVF.png/300px-Artwork002_RFVF.png"
+		},
+		{
+			"nPokedex" : "3",
+			"name" : "Venusaur",
+			"type1" : "Grass",
+			"type2" : "Poison",
+			"gender" : ["male", "female"],
+			"forms" : {
+				"a" :{
+					"name" : "Mega",
+					"type1" : "Grass",
+					"type2" : "Poison",
+					"photo" : "https://media.pokemoncentral.it/wiki/thumb/8/8e/Artwork003M_XY.png/1024px-Artwork003M_XY.png"
+				},
+				"b" :{
+					"name" : "Gigamax",
+					"type1" : "Grass",
+					"type2" : "Poison",
+					"photo" : "https://media.pokemoncentral.it/wiki/thumb/7/72/Artwork003Gi_SpSc.png/1024px-Artwork003Gi_SpSc.png"
+				}
+			},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/a/a7/Artwork003_RFVF.png/300px-Artwork003_RFVF.png"
+		},
+		{
+			"nPokedex" : "4",
+			"name" : "Charmander",
+			"type1" : "Fire",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/d/d5/Artwork004_RFVF.png/300px-Artwork004_RFVF.png"
+		},
+		{
+			"nPokedex" : "5",
+			"name" : "Charmeleon",
+			"type1" : "Fire",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/9/92/Artwork005_RFVF.png/300px-Artwork005_RFVF.png"
+		},
+		{
+			"nPokedex" : "6",
+			"name" : "Charizard",
+			"type1" : "Fire",
+			"type2" : "Flying",
+			"gender" : ["male", "female"],
+			"forms" : {
+				"a" :{
+					"name" : "Mega X",
+					"type1" : "Fire",
+					"type2" : "Dragon",
+					"photo" : "https://media.pokemoncentral.it/wiki/thumb/4/4e/Artwork006MX_XY.png/900px-Artwork006MX_XY.png"
+				},
+				"b" :{
+					"name" : "Mega Y",
+					"type1" : "Fire",
+					"type2" : "Flying",
+					"photo" : "https://media.pokemoncentral.it/wiki/thumb/b/b4/Artwork006MY_XY.png/900px-Artwork006MY_XY.png"
+				},
+				"c" :{
+					"name" : "Gigamax",
+					"type1" : "Fire",
+					"type2" : "Flying",
+					"photo" : "https://media.pokemoncentral.it/wiki/thumb/b/bc/Artwork006Gi_SpSc.png/900px-Artwork006Gi_SpSc.png"
+				}	
+			},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/7/71/Artwork006_RFVF.png/300px-Artwork006_RFVF.png"
+		},
+		{
+			"nPokedex" : "7",
+			"name" : "Squirtle",
+			"type1" : "Water",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/f/f0/Artwork007_RFVF.png/300px-Artwork007_RFVF.png"
+		},
+		{
+			"nPokedex" : "8",
+			"name" : "Wartortle",
+			"type1" : "Water",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/3/30/Artwork008_RFVF.png/300px-Artwork008_RFVF.png"
+		},
+		{
+			"nPokedex" : "9",
+			"name" : "Blastoise",
+			"type1" : "Water",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {
+				"a" :{
+					"name" : "Mega",
+					"type1" : "Water",
+					"type2" : "",
+					"photo" : "https://media.pokemoncentral.it/wiki/thumb/a/a8/Artwork009M_XY.png/1024px-Artwork009M_XY.png"
+				},
+				"b" :{
+					"name" : "Gigamax",
+					"type1" : "Water",
+					"type2" : "",
+					"photo" : "https://media.pokemoncentral.it/wiki/thumb/d/de/Artwork009Gi_SpSc.png/1024px-Artwork009Gi_SpSc.png"
+				}
+			},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/5/53/Artwork009_RFVF.png/300px-Artwork009_RFVF.png"
+		},
+		{
+			"nPokedex" : "10",
+			"name" : "Caterpie",
+			"type1" : "Bug",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/8/8f/Artwork010_RFVF.png/300px-Artwork010_RFVF.png"
+		},
+		{
+			"nPokedex" : "11",
+			"name" : "Metapod",
+			"type1" : "Bug",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/5/5e/Artwork011_RFVF.png/300px-Artwork011_RFVF.png"
+		},
+		{
+			"nPokedex" : "12",
+			"name" : "Butterfree",
+			"type1" : "Bug",
+			"type2" : "Flying",
+			"gender" : ["male", "female"],
+			"forms" : {
+				"a" :{
+					"name" : "Gigamax",
+					"type1" : "Bug",
+					"type2" : "Flying",
+					"photo" : "https://media.pokemoncentral.it/wiki/thumb/b/b1/Artwork012Gi_SpSc.png/900px-Artwork012Gi_SpSc.png"
+				}
+			},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/6/6f/Artwork012_RFVF.png/300px-Artwork012_RFVF.png"
+		},
+		{
+			"nPokedex" : "13",
+			"name" : "Weedle",
+			"type1" : "Bug",
+			"type2" : "Poison",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/f/fc/Artwork013_RFVF.png/300px-Artwork013_RFVF.png"
+		},
+		{
+			"nPokedex" : "14",
+			"name" : "Kakuna",
+			"type1" : "Bug",
+			"type2" : "Poison",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/1/19/Artwork014_RFVF.png/300px-Artwork014_RFVF.png"
+		},
+		{
+			"nPokedex" : "15",
+			"name" : "Beedrill",
+			"type1" : "Bug",
+			"type2" : "Poison",
+			"gender" : ["male", "female"],
+			"forms" : {
+				"a" :{
+					"name" : "Mega",
+					"type1" : "Bug",
+					"type2" : "Poison",
+					"photo" : "https://media.pokemoncentral.it/wiki/thumb/c/cd/Artwork015M_ROZA.png/1024px-Artwork015M_ROZA.png"
+				}
+			},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/3/3d/Artwork015_RFVF.png/300px-Artwork015_RFVF.png"
+		},
+		{
+			"nPokedex" : "16",
+			"name" : "Pidgey",
+			"type1" : "Normal",
+			"type2" : "Flying",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/b/bb/Artwork016_RFVF.png/300px-Artwork016_RFVF.png"
+		},
+		{
+			"nPokedex" : "17",
+			"name" : "Pidgeotto",
+			"type1" : "Normal",
+			"type2" : "Flying",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/1/10/Artwork017_RFVF.png/300px-Artwork017_RFVF.png"
+		},
+		{
+			"nPokedex" : "18",
+			"name" : "Pidgeot",
+			"type1" : "Normal",
+			"type2" : "Flying",
+			"gender" : ["male", "female"],
+			"forms" : {
+				"a" :{
+					"name" : "Mega",
+					"type1" : "Normal",
+					"type2" : "Flying",
+					"photo" : "https://media.pokemoncentral.it/wiki/thumb/d/db/Artwork018M_ROZA.png/1024px-Artwork018M_ROZA.png"
+				}
+			},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/b/b3/Artwork018_RFVF.png/300px-Artwork018_RFVF.png"
+		},
+		{
+			"nPokedex" : "19",
+			"name" : "Rattata",
+			"type1" : "Normal",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {
+				"a" :{
+					"name" : "Alola",
+					"type1" : "Dark",
+					"type2" : "Normal",
+					"photo" : "https://media.pokemoncentral.it/wiki/thumb/e/e3/Artwork019A_SL.png/1024px-Artwork019A_SL.png"
+				}
+			},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/9/96/Artwork019_RFVF.png/300px-Artwork019_RFVF.png"
+		},
+		{
+			"nPokedex" : "20",
+			"name" : "Raticate",
+			"type1" : "Normal",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {
+				"a" :{
+					"name" : "Alola",
+					"type1" : "Dark",
+					"type2" : "Normal",
+					"photo" : "https://media.pokemoncentral.it/wiki/thumb/7/72/Artwork020A_SL.png/1024px-Artwork020A_SL.png"
+				}
+			},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/b/be/Artwork020_RFVF.png/300px-Artwork020_RFVF.png"
+		},
+		{
+			"nPokedex" : "21",
+			"name" : "Spearow",
+			"type1" : "Normal",
+			"type2" : "Flying",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/5/51/Artwork021_RFVF.png/300px-Artwork021_RFVF.png"
+		},
+		{
+			"nPokedex" : "22",
+			"name" : "Fearow",
+			"type1" : "Normal",
+			"type2" : "Flying",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/4/4f/Artwork022_RFVF.png/300px-Artwork022_RFVF.png"
+		},
+		{
+			"nPokedex" : "23",
+			"name" : "Ekans",
+			"type1" : "Poison",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/1/10/Artwork023_RFVF.png/300px-Artwork023_RFVF.png"
+		},
+		{
+			"nPokedex" : "24",
+			"name" : "Arbok",
+			"type1" : "Poison",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/7/71/Artwork024_RFVF.png/300px-Artwork024_RFVF.png"
+		},
+		{
+			"nPokedex" : "25",
+			"name" : "Pikachu",
+			"type1" : "Electric",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {
+				"a" :{
+					"name" : "Cosplay",
+					"type1" : "Electric",
+					"type2" : "",
+					"photo" : "https://media.pokemoncentral.it/wiki/c/c7/Sprrozaf025C.png"
+				},
+				"b" :{
+					"name" : "Rock Star",
+					"type1" : "Electric",
+					"type2" : "",
+					"photo" : "https://media.pokemoncentral.it/wiki/thumb/6/66/Artwork025R_ROZA.png/1024px-Artwork025R_ROZA.png"
+				},
+				"c" :{
+					"name" : "Belle",
+					"type1" : "Electric",
+					"type2" : "",
+					"photo" : "https://media.pokemoncentral.it/wiki/thumb/5/51/Artwork025D_ROZA.png/1024px-Artwork025D_ROZA.png"
+				},
+				"d" :{
+					"name" : "Pop Star",
+					"type1" : "Electric",
+					"type2" : "",
+					"photo" : "https://media.pokemoncentral.it/wiki/thumb/4/4e/Artwork025Cn_ROZA.png/1024px-Artwork025Cn_ROZA.png"
+				},
+				"e" :{
+					"name" : "Ph.D",
+					"type1" : "Electric",
+					"type2" : "",
+					"photo" : "https://media.pokemoncentral.it/wiki/thumb/7/7e/Artwork025S_ROZA.png/1024px-Artwork025S_ROZA.png"
+				},
+				"f" :{
+					"name" : "Libre",
+					"type1" : "Electric",
+					"type2" : "",
+					"photo" : "https://media.pokemoncentral.it/wiki/thumb/7/7d/Artwork025W_ROZA.png/1024px-Artwork025W_ROZA.png"
+				},
+				"g" :{
+					"name" : "Original Cap",
+					"type1" : "Electric",
+					"type2" : "",
+					"photo" : "https://media.pokemoncentral.it/wiki/thumb/a/ad/Artwork025O_SL.png/1024px-Artwork025O_SL.png"
+				},
+				"h" :{
+					"name" : "Hoenn Cap",
+					"type1" : "Electric",
+					"type2" : "",
+					"photo" : "https://media.pokemoncentral.it/wiki/thumb/e/ea/Artwork025H_SL.png/1024px-Artwork025H_SL.png"
+				},
+				"i" :{
+					"name" : "Sinnoh Cap",
+					"type1" : "Electric",
+					"type2" : "",
+					"photo" : "https://media.pokemoncentral.it/wiki/thumb/9/94/Artwork025Si_SL.png/1024px-Artwork025Si_SL.png"
+				},
+				"j" :{
+					"name" : "Unima Cap",
+					"type1" : "Electric",
+					"type2" : "",
+					"photo" : "https://media.pokemoncentral.it/wiki/thumb/8/83/Artwork025U_SL.png/1024px-Artwork025U_SL.png"
+				},
+				"k" :{
+					"name" : "Kalos Cap",
+					"type1" : "Electric",
+					"type2" : "",
+					"photo" : "https://media.pokemoncentral.it/wiki/thumb/e/e3/Artwork025K_SL.png/1024px-Artwork025K_SL.png"
+				},
+				"l" :{
+					"name" : "Alola Cap",
+					"type1" : "Electric",
+					"type2" : "",
+					"photo" : "https://media.pokemoncentral.it/wiki/thumb/2/2a/Artwork025A_SL.png/1024px-Artwork025A_SL.png"
+				},
+				"m" :{
+					"name" : "Ash's Partner Cap",
+					"type1" : "Electric",
+					"type2" : "",
+					"photo" : "https://media.pokemoncentral.it/wiki/thumb/d/df/Artwork025Co_UsUl.png/1024px-Artwork025Co_UsUl.png"
+				},
+				"n" :{
+					"name" : "Ash's World Cap",
+					"type1" : "Electric",
+					"type2" : "",
+					"photo" : "https://media.pokemoncentral.it/wiki/thumb/7/79/Artwork025G_SpSc.png/1024px-Artwork025G_SpSc.png"
+				},
+				"o" :{
+					"name" : "Gigamax",
+					"type1" : "Electric",
+					"type2" : "",
+					"photo" : "https://media.pokemoncentral.it/wiki/thumb/1/12/Artwork025Gi_SpSc.png/1024px-Artwork025Gi_SpSc.png"
+				}
+			},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/4/4e/Artwork025_RFVF.png/300px-Artwork025_RFVF.png"
+		},
+		{
+			"nPokedex" : "26",
+			"name" : "Raichu",
+			"type1" : "Electric",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {
+				"a" :{
+					"name" : "Alola",
+					"type1" : "Electric",
+					"type2" : "Psychic",
+					"photo" : "https://media.pokemoncentral.it/wiki/thumb/3/33/Artwork026A_SL.png/1024px-Artwork026A_SL.png"
+				}
+			},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/b/b9/Artwork026_RFVF.png/300px-Artwork026_RFVF.png"
+		},
+		{
+			"nPokedex" : "27",
+			"name" : "Sandshrew",
+			"type1" : "Ground",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {
+				"a" :{
+					"name" : "Alola",
+					"type1" : "Ice",
+					"type2" : "Steel",
+					"photo" : "https://media.pokemoncentral.it/wiki/thumb/9/94/Artwork027A_SL.png/1024px-Artwork027A_SL.png"
+				}
+			},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/7/76/Artwork027_RFVF.png/300px-Artwork027_RFVF.png"
+		},
+		{
+			"nPokedex" : "28",
+			"name" : "Sandslash",
+			"type1" : "Ground",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {
+				"a" :{
+					"name" : "Alola",
+					"type1" : "Ice",
+					"type2" : "Steel",
+					"photo" : "https://media.pokemoncentral.it/wiki/thumb/d/d2/Artwork028A_SL.png/1024px-Artwork028A_SL.png"
+				}
+			},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/0/0b/Artwork028_RFVF.png/300px-Artwork028_RFVF.png"
+		},
+		{
+			"nPokedex" : "29",
+			"name" : "Nidoran",
+			"type1" : "Poison",
+			"type2" : "",
+			"gender" : ["female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/7/78/Artwork029_RFVF.png"
+		},
+		{
+			"nPokedex" : "30",
+			"name" : "Nidorina",
+			"type1" : "Poison",
+			"type2" : "",
+			"gender" : ["female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/b/b0/Artwork030_RFVF.png/300px-Artwork030_RFVF.png"
+		},
+		{
+			"nPokedex" : "31",
+			"name" : "Nidoqueen",
+			"type1" : "Poison",
+			"type2" : "Ground",
+			"gender" : ["female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/f/f1/Artwork031_RFVF.png"
+		},
+		{
+			"nPokedex" : "32",
+			"name" : "Nidoran",
+			"type1" : "Poison",
+			"type2" : "",
+			"gender" : ["male"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/1/1f/Artwork032_RFVF.png"
+		},
+		{
+			"nPokedex" : "33",
+			"name" : "Nidorino",
+			"type1" : "Poison",
+			"type2" : "",
+			"gender" : ["male"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/2/2e/Artwork033_RFVF.png"
+		},
+		{
+			"nPokedex" : "34",
+			"name" : "Nidoking",
+			"type1" : "Poison",
+			"type2" : "Ground",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/c/ce/Artwork034_RFVF.png/300px-Artwork034_RFVF.png"
+		},
+		{
+			"nPokedex" : "35",
+			"name" : "Clefairy",
+			"type1" : "Fairy",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/1/1c/Artwork035_RFVF.png"
+		},
+		{
+			"nPokedex" : "36",
+			"name" : "Clefable",
+			"type1" : "Fairy",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/9/99/Artwork036_RFVF.png/300px-Artwork036_RFVF.png"
+		},
+		{
+			"nPokedex" : "37",
+			"name" : "Vulpix",
+			"type1" : "Fire",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {
+				"a" :{
+					"name" : "Alola",
+					"type1" : "Ice",
+					"type2" : "",
+					"photo" : "https://media.pokemoncentral.it/wiki/thumb/1/14/Artwork037A_SL.png/1024px-Artwork037A_SL.png"
+				}
+			},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/3/39/Artwork037_RFVF.png/300px-Artwork037_RFVF.png"
+		},
+		{
+			"nPokedex" : "38",
+			"name" : "Ninetales",
+			"type1" : "Fire",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {
+				"a" :{
+					"name" : "Alola",
+					"type1" : "Ice",
+					"type2" : "Fairy",
+					"photo" : "https://media.pokemoncentral.it/wiki/thumb/c/c6/Artwork038A_SL.png/1024px-Artwork038A_SL.png"
+				}
+			},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/6/6d/Artwork038_RFVF.png/300px-Artwork038_RFVF.png"
+		},
+		{
+			"nPokedex" : "39",
+			"name" : "Jigglypuff",
+			"type1" : "Normal",
+			"type2" : "Fairy",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/0/01/Artwork039_RFVF.png/300px-Artwork039_RFVF.png"
+		},
+		{
+			"nPokedex" : "40",
+			"name" : "Wigglytuff",
+			"type1" : "Normal",
+			"type2" : "Fairy",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/a/a0/Artwork040_RFVF.png/300px-Artwork040_RFVF.png"
+		},
+		{
+			"nPokedex" : "41",
+			"name" : "Zubat",
+			"type1" : "Poison",
+			"type2" : "Flying",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/a/a2/Artwork041_RFVF.png/300px-Artwork041_RFVF.png"
+		},
+		{
+			"nPokedex" : "42",
+			"name" : "Golbat",
+			"type1" : "Poison",
+			"type2" : "Flying",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/3/33/Artwork042_RFVF.png/300px-Artwork042_RFVF.png"
+		},
+		{
+			"nPokedex" : "43",
+			"name" : "Oddish",
+			"type1" : "Grass",
+			"type2" : "Poison",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/0/07/Artwork043_RFVF.png/300px-Artwork043_RFVF.png"
+		},
+		{
+			"nPokedex" : "44",
+			"name" : "Gloom",
+			"type1" : "Grass",
+			"type2" : "Poison",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/5/55/Artwork044_RFVF.png/300px-Artwork044_RFVF.png"
+		},
+		{
+			"nPokedex" : "45",
+			"name" : "Vileplume",
+			"type1" : "Grass",
+			"type2" : "Poison",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/9/9f/Artwork045_RFVF.png/300px-Artwork045_RFVF.png"
+		},
+		{
+			"nPokedex" : "46",
+			"name" : "Paras",
+			"type1" : "Bug",
+			"type2" : "Grass",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/c/c0/Artwork046_RFVF.png/300px-Artwork046_RFVF.png"
+		},
+		{
+			"nPokedex" : "47",
+			"name" : "Parasect",
+			"type1" : "Bug",
+			"type2" : "Grass",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/b/be/Artwork047_RFVF.png/300px-Artwork047_RFVF.png"
+		},
+		{
+			"nPokedex" : "48",
+			"name" : "Venonat",
+			"type1" : "Bug",
+			"type2" : "Poison",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/b/bd/Artwork048_RFVF.png/300px-Artwork048_RFVF.png"
+		},
+		{
+			"nPokedex" : "49",
+			"name" : "Venomoth",
+			"type1" : "Bug",
+			"type2" : "Poison",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/f/fc/Artwork049_RFVF.png/300px-Artwork049_RFVF.png"
+		},
+		{
+			"nPokedex" : "50",
+			"name" : "Diglett",
+			"type1" : "Ground",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {
+				"a" :{
+					"name" : "Alola",
+					"type1" : "Ground",
+					"type2" : "Steel",
+					"photo" : "https://media.pokemoncentral.it/wiki/thumb/d/d7/Artwork050A_SL.png/1024px-Artwork050A_SL.png"
+				}
+			},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/6/68/Artwork050_RFVF.png/300px-Artwork050_RFVF.png"
+		},
+		{
+			"nPokedex" : "51",
+			"name" : "Dugtrio",
+			"type1" : "Ground",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {
+				"a" :{
+					"name" : "Alola",
+					"type1" : "Ground",
+					"type2" : "Steel",
+					"photo" : "https://media.pokemoncentral.it/wiki/thumb/a/a4/Artwork051A_SL.png/1024px-Artwork051A_SL.png"
+				}
+			},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/a/ac/Artwork051_RFVF.png/300px-Artwork051_RFVF.png"
+		},
+		{
+			"nPokedex" : "52",
+			"name" : "Meowth",
+			"type1" : "Normal",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {
+				"a" :{
+					"name" : "Alola",
+					"type1" : "Dark",
+					"type2" : "",
+					"photo" : "https://media.pokemoncentral.it/wiki/thumb/d/d9/Artwork052A_SL.png/1024px-Artwork052A_SL.png"
+				},
+				"b" :{
+					"name" : "Galar",
+					"type1" : "Steel",
+					"type2" : "",
+					"photo" : "https://media.pokemoncentral.it/wiki/9/95/Artwork052G_SpSc.png"
+				},
+				"c" :{
+					"name" : "Gigamax",
+					"type1" : "Normal",
+					"type2" : "",
+					"photo" : "https://media.pokemoncentral.it/wiki/thumb/4/44/Artwork052Gi_SpSc.png/1024px-Artwork052Gi_SpSc.png"
+				}
+			},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/c/c7/Artwork052_RFVF.png/300px-Artwork052_RFVF.png"
+		},
+		{
+			"nPokedex" : "53",
+			"name" : "Persian",
+			"type1" : "Normal",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {
+				"a" :{
+					"name" : "Alola",
+					"type1" : "Dark",
+					"type2" : "",
+					"photo" : "https://media.pokemoncentral.it/wiki/thumb/d/d1/Artwork053A_SL.png/1024px-Artwork053A_SL.png"
+				}
+			},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/5/55/Artwork053_RFVF.png/300px-Artwork053_RFVF.png"
+		},
+		{
+			"nPokedex" : "54",
+			"name" : "Psyduck",
+			"type1" : "Water",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/2/29/Artwork054_RFVF.png/300px-Artwork054_RFVF.png"
+		},
+		{
+			"nPokedex" : "55",
+			"name" : "Golduck",
+			"type1" : "Water",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/2/24/Artwork055_RFVF.png/300px-Artwork055_RFVF.png"
+		},
+		{
+			"nPokedex" : "56",
+			"name" : "Mankey",
+			"type1" : "Fighting",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/9/94/Artwork056_RFVF.png/300px-Artwork056_RFVF.png"
+		},
+		{
+			"nPokedex" : "57",
+			"name" : "Primeape",
+			"type1" : "Fighting",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/9/94/Artwork057_RFVF.png/300px-Artwork057_RFVF.png"
+		},
+		{
+			"nPokedex" : "58",
+			"name" : "Growlithe",
+			"type1" : "Fire",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {
+				"a" :{
+					"name" : "Hisui",
+					"type1" : "Fire",
+					"type2" : "Rock",
+					"photo" : "https://media.pokemoncentral.it/wiki/thumb/a/a3/Artwork058H_LPA.png/1024px-Artwork058H_LPA.png"
+				}
+			},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/7/70/Artwork058_RFVF.png/300px-Artwork058_RFVF.png"
+		},
+		{
+			"nPokedex" : "59",
+			"name" : "Arcanine",
+			"type1" : "Fire",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {
+				"a" :{
+					"name" : "Hisui",
+					"type1" : "Fire",
+					"type2" : "Rock",
+					"photo" : "https://media.pokemoncentral.it/wiki/e/e5/Artwork059H_LPA.png"
+				}
+			},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/2/27/Artwork059_RFVF.png/300px-Artwork059_RFVF.png"
+		},
+		{
+			"nPokedex" : "60",
+			"name" : "Poliwag",
+			"type1" : "Water",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/e/eb/Artwork060_RFVF.png"
+		},
+		{
+			"nPokedex" : "61",
+			"name" : "Poliwhirl",
+			"type1" : "Water",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/8/86/Artwork061_RFVF.png/300px-Artwork061_RFVF.png"
+		},
+		{
+			"nPokedex" : "62",
+			"name" : "Poliwrath",
+			"type1" : "Water",
+			"type2" : "Fighting",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/6/6d/Artwork062_RFVF.png/300px-Artwork062_RFVF.png"
+		},
+		{
+			"nPokedex" : "63",
+			"name" : "Abra",
+			"type1" : "Psychic",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/4/4b/Artwork063_RFVF.png/300px-Artwork063_RFVF.png"
+		},
+		{
+			"nPokedex" : "64",
+			"name" : "Kadabra",
+			"type1" : "Psychic",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/3/3b/Artwork064_RFVF.png/300px-Artwork064_RFVF.png"
+		},
+		{
+			"nPokedex" : "65",
+			"name" : "Alakazam",
+			"type1" : "Psychic",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {
+				"a" :{
+					"name" : "Mega",
+					"type1" : "Psychic",
+					"type2" : "",
+					"photo" : "https://media.pokemoncentral.it/wiki/b/b0/Artwork065M_XY.png"
+				}
+			},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/6/60/Artwork065_RFVF.png/300px-Artwork065_RFVF.png"
+		},
+		{
+			"nPokedex" : "66",
+			"name" : "Machop",
+			"type1" : "Fighting",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/e/ed/Artwork066_RFVF.png/300px-Artwork066_RFVF.png"
+		},
+		{
+			"nPokedex" : "67",
+			"name" : "Machoke",
+			"type1" : "Fighting",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/d/d4/Artwork067_RFVF.png/300px-Artwork067_RFVF.png"
+		},
+		{
+			"nPokedex" : "68",
+			"name" : "Machamp",
+			"type1" : "Fighting",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {
+				"a" :{
+					"name" : "Gigamax",
+					"type1" : "Fighting",
+					"type2" : "",
+					"photo" : "https://media.pokemoncentral.it/wiki/f/fe/Artwork068Gi_SpSc.png"
+				}
+			},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/1/11/Artwork068_RFVF.png/300px-Artwork068_RFVF.png"
+		},
+		{
+			"nPokedex" : "69",
+			"name" : "Bellsprout",
+			"type1" : "Grass",
+			"type2" : "Poison",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/c/c7/Artwork069_RFVF.png/300px-Artwork069_RFVF.png"
+		},
+		{
+			"nPokedex" : "70",
+			"name" : "Weepinbell",
+			"type1" : "Grass",
+			"type2" : "Poison",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/9/93/Artwork070_RFVF.png/300px-Artwork070_RFVF.png"
+		},
+		{
+			"nPokedex" : "71",
+			"name" : "Victreebel",
+			"type1" : "Grass",
+			"type2" : "Poison",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/2/22/Artwork071_RFVF.png/300px-Artwork071_RFVF.png"
+		},
+		{
+			"nPokedex" : "72",
+			"name" : "Tentacool",
+			"type1" : "Water",
+			"type2" : "Poison",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/2/29/Artwork072_RFVF.png/300px-Artwork072_RFVF.png"
+		},
+		{
+			"nPokedex" : "73",
+			"name" : "Tentacruel",
+			"type1" : "Water",
+			"type2" : "Poison",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/a/ab/Artwork073_RFVF.png/300px-Artwork073_RFVF.png"
+		},
+		{
+			"nPokedex" : "74",
+			"name" : "Geodude",
+			"type1" : "Rock",
+			"type2" : "Ground",
+			"gender" : ["male", "female"],
+			"forms" : {
+				"a" :{
+					"name" : "Alola",
+					"type1" : "Rock",
+					"type2" : "Electric",
+					"photo" : "https://media.pokemoncentral.it/wiki/c/ca/Artwork074A_SL.png"
+				}
+			},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/4/41/Artwork074_RFVF.png/300px-Artwork074_RFVF.png"
+		},
+		{
+			"nPokedex" : "75",
+			"name" : "Graveler",
+			"type1" : "Rock",
+			"type2" : "Ground",
+			"gender" : ["male", "female"],
+			"forms" : {
+				"a" :{
+					"name" : "Alola",
+					"type1" : "Rock",
+					"type2" : "Electric",
+					"photo" : "https://media.pokemoncentral.it/wiki/0/06/Artwork075A_SL.png"
+				}
+			},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/0/0d/Artwork075_RFVF.png/300px-Artwork075_RFVF.png"
+		},
+		{
+			"nPokedex" : "76",
+			"name" : "Golem",
+			"type1" : "Rock",
+			"type2" : "Ground",
+			"gender" : ["male", "female"],
+			"forms" : {
+				"a" :{
+					"name" : "Alola",
+					"type1" : "Rock",
+					"type2" : "Electric",
+					"photo" : "https://media.pokemoncentral.it/wiki/5/5d/Artwork076A_SL.png"
+				}
+			},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/f/f8/Artwork076_RFVF.png/300px-Artwork076_RFVF.png"
+		},
+		{
+			"nPokedex" : "77",
+			"name" : "Ponyta",
+			"type1" : "Fire",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {
+				"a" :{
+					"name" : "Galar",
+					"type1" : "Psychic",
+					"type2" : "",
+					"photo" : "https://media.pokemoncentral.it/wiki/thumb/4/45/Artwork077G_SpSc.png/1024px-Artwork077G_SpSc.png"
+				}
+			},
+			"photo" : "https://media.pokemoncentral.it/wiki/9/92/Artwork077_RFVF.png"
+		},
+		{
+			"nPokedex" : "78",
+			"name" : "Rapidash",
+			"type1" : "Fire",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {
+				"a" :{
+					"name" : "Galar",
+					"type1" : "Psychic",
+					"type2" : "Fairy",
+					"photo" : "https://media.pokemoncentral.it/wiki/8/8d/Artwork078G_SpSc.png"
+				}
+			},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/2/28/Artwork078_RFVF.png/300px-Artwork078_RFVF.png"
+		},
+		{
+			"nPokedex" : "79",
+			"name" : "Slowpoke",
+			"type1" : "Water",
+			"type2" : "Psychic",
+			"gender" : ["male", "female"],
+			"forms" : {
+				"a" :{
+					"name" : "Galar",
+					"type1" : "Psychic",
+					"type2" : "",
+					"photo" : "https://media.pokemoncentral.it/wiki/thumb/a/ae/Artwork079G_SpSc.png/1024px-Artwork079G_SpSc.png"
+				}
+			},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/4/4c/Artwork079_RFVF.png/300px-Artwork079_RFVF.png"
+		},
+		{
+			"nPokedex" : "80",
+			"name" : "Slowbro",
+			"type1" : "Water",
+			"type2" : "Psychic",
+			"gender" : ["male", "female"],
+			"forms" : {
+				"a" :{
+					"name" : "Galar",
+					"type1" : "Poison",
+					"type2" : "Psychic",
+					"photo" : "https://media.pokemoncentral.it/wiki/thumb/8/82/Artwork080G_SpSc.png/1024px-Artwork080G_SpSc.png"
+				},
+				"b" :{
+					"name" : "Mega",
+					"type1" : "Water",
+					"type2" : "Psychic",
+					"photo" : "https://media.pokemoncentral.it/wiki/thumb/5/53/Artwork080M_ROZA.png/1024px-Artwork080M_ROZA.png"
+				}
+			},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/e/e2/Artwork080_RFVF.png/300px-Artwork080_RFVF.png"
+		},
+		{
+			"nPokedex" : "81",
+			"name" : "Magnemite",
+			"type1" : "Electric",
+			"type2" : "Steel",
+			"gender" : [],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/3/36/Artwork081_RFVF.png/300px-Artwork081_RFVF.png"
+		},
+		{
+			"nPokedex" : "82",
+			"name" : "Magneton",
+			"type1" : "Electric",
+			"type2" : "Steel",
+			"gender" : [],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/9/95/Artwork082_RFVF.png/300px-Artwork082_RFVF.png"
+		},
+		{
+			"nPokedex" : "83",
+			"name" : "Farfetch'd",
+			"type1" : "Normal",
+			"type2" : "Flying",
+			"gender" : ["male", "female"],
+			"forms" : {
+				"a" :{
+					"name" : "Galar",
+					"type1" : "Fighting",
+					"type2" : "",
+					"photo" : "https://media.pokemoncentral.it/wiki/4/4c/Artwork083G_SpSc.pnghttps://media.pokemoncentral.it/wiki/4/4c/Artwork083G_SpSc.png"
+				}
+			},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/d/d9/Artwork083_RFVF.png/300px-Artwork083_RFVF.png"
+		},
+		{
+			"nPokedex" : "84",
+			"name" : "Doduo",
+			"type1" : "Normal",
+			"type2" : "Flying",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/a/a8/Artwork084_RFVF.png/300px-Artwork084_RFVF.png"
+		},
+		{
+			"nPokedex" : "85",
+			"name" : "Dodrio",
+			"type1" : "Normal",
+			"type2" : "Flying",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/e/ee/Artwork085_RFVF.png/300px-Artwork085_RFVF.png"
+		},
+		{
+			"nPokedex" : "86",
+			"name" : "Seel",
+			"type1" : "Water",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/0/08/Artwork086_RFVF.png/300px-Artwork086_RFVF.png"
+		},
+		{
+			"nPokedex" : "87",
+			"name" : "Dewgong",
+			"type1" : "Water",
+			"type2" : "Ice",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/0/0d/Artwork087_RFVF.png/300px-Artwork087_RFVF.png"
+		},
+		{
+			"nPokedex" : "88",
+			"name" : "Grimer",
+			"type1" : "Poison",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {
+				"a" :{
+					"name" : "Alola",
+					"type1" : "Poison",
+					"type2" : "Dark",
+					"photo" : "https://media.pokemoncentral.it/wiki/thumb/7/7f/Artwork088A_SL.png/1024px-Artwork088A_SL.png"
+				}
+			},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/9/98/Artwork088_RFVF.png/300px-Artwork088_RFVF.png"
+		},
+		{
+			"nPokedex" : "89",
+			"name" : "Muk",
+			"type1" : "Poison",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {
+				"a" :{
+					"name" : "Alola",
+					"type1" : "Poison",
+					"type2" : "Dark",
+					"photo" : "https://media.pokemoncentral.it/wiki/thumb/4/4b/Artwork089A_SL.png/1024px-Artwork089A_SL.png"
+				}
+			},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/7/76/Artwork089_RFVF.png/300px-Artwork089_RFVF.png"
+		},
+		{
+			"nPokedex" : "90",
+			"name" : "Shellder",
+			"type1" : "Water",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/d/db/Artwork090_RFVF.png/300px-Artwork090_RFVF.png"
+		},
+		{
+			"nPokedex" : "91",
+			"name" : "Cloyster",
+			"type1" : "Water",
+			"type2" : "Ice",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/e/e3/Artwork091_RFVF.png/300px-Artwork091_RFVF.png"
+		},
+		{
+			"nPokedex" : "92",
+			"name" : "Gastly",
+			"type1" : "Ghost",
+			"type2" : "Poison",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/7/75/Artwork092_RFVF.png/300px-Artwork092_RFVF.png"
+		},
+		{
+			"nPokedex" : "93",
+			"name" : "Haunter",
+			"type1" : "Ghost",
+			"type2" : "Poison",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/b/b2/Artwork093_RFVF.png/300px-Artwork093_RFVF.png"
+		},
+		{
+			"nPokedex" : "94",
+			"name" : "Gengar",
+			"type1" : "Ghost",
+			"type2" : "Poison",
+			"gender" : ["male", "female"],
+			"forms" : {
+				"a" :{
+					"name" : "Mega",
+					"type1" : "Ghost",
+					"type2" : "Poison",
+					"photo" : "https://media.pokemoncentral.it/wiki/f/fa/Artwork094M_XY.png"
+				},
+				"b" :{
+					"name" : "Gigamax",
+					"type1" : "Ghost",
+					"type2" : "Poison",
+					"photo" : "https://media.pokemoncentral.it/wiki/8/87/Artwork094Gi_SpSc.png"
+				}
+			},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/4/48/Artwork094_RFVF.png/300px-Artwork094_RFVF.png"
+		},
+		{
+			"nPokedex" : "95",
+			"name" : "Onix",
+			"type1" : "Rock",
+			"type2" : "Ground",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/4/4a/Artwork095_RFVF.png/300px-Artwork095_RFVF.png"
+		},
+		{
+			"nPokedex" : "96",
+			"name" : "Drowzee",
+			"type1" : "Psychic",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/d/df/Artwork096_RFVF.png/300px-Artwork096_RFVF.png"
+		},
+		{
+			"nPokedex" : "97",
+			"name" : "Hypno",
+			"type1" : "Psychic",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/9/9e/Artwork097_RFVF.png"
+		},
+		{
+			"nPokedex" : "98",
+			"name" : "Krabby",
+			"type1" : "Water",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/4/45/Artwork098_RFVF.png/300px-Artwork098_RFVF.png"
+		},
+		{
+			"nPokedex" : "99",
+			"name" : "Kingler",
+			"type1" : "Water",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {
+				"a" :{
+					"name" : "Gigamax",
+					"type1" : "Water",
+					"type2" : "",
+					"photo" : "https://media.pokemoncentral.it/wiki/1/14/Artwork099Gi_SpSc.png"
+				}
+			},
+			"photo" : "https://media.pokemoncentral.it/wiki/0/0d/Artwork099_RFVF.png"
+		},
+		{
+			"nPokedex" : "100",
+			"name" : "Voltorb",
+			"type1" : "Electric",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {
+				"a" :{
+					"name" : "Hisui",
+					"type1" : "Electric",
+					"type2" : "Grass",
+					"photo" : "https://media.pokemoncentral.it/wiki/9/93/Artwork100H_LPA.png"
+				}
+			},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/7/7f/Artwork100_RFVF.png/300px-Artwork100_RFVF.png"
+		},
+		{
+			"nPokedex" : "101",
+			"name" : "Electrode",
+			"type1" : "Electric",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {
+				"a" :{
+					"name" : "Hisui",
+					"type1" : "Electric",
+					"type2" : "Grass",
+					"photo" : "https://media.pokemoncentral.it/wiki/a/a3/Artwork101H_LPA.png"
+				}
+			},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/6/68/Artwork101_RFVF.png/300px-Artwork101_RFVF.png"
+		},
+
+		{
+			"nPokedex" : "102",
+			"name" : "Exeggcute",
+			"type1" : "Grass",
+			"type2" : "Psychic",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/f/fc/Artwork102_RFVF.png/300px-Artwork102_RFVF.png"
+		},
+		{
+			"nPokedex" : "103",
+			"name" : "Exeggutor",
+			"type1" : "Grass",
+			"type2" : "Psychic",
+			"gender" : ["male", "female"],
+			"forms" : {
+				"a" :{
+					"name" : "Alola",
+					"type1" : "Grass",
+					"type2" : "Dragon",
+					"photo" : "https://media.pokemoncentral.it/wiki/thumb/1/19/Artwork103A_SL.png/1024px-Artwork103A_SL.png"
+				}
+			},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/3/3a/Artwork103_RFVF.png/300px-Artwork103_RFVF.png"
+		},
+		{
+			"nPokedex" : "104",
+			"name" : "Cubone",
+			"type1" : "Ground",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/b/bd/Artwork104_RFVF.png/300px-Artwork104_RFVF.png"
+		},
+		{
+			"nPokedex" : "105",
+			"name" : "Marowak",
+			"type1" : "Ground",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {
+				"a" :{
+					"name" : "Alola",
+					"type1" : "Fire",
+					"type2" : "Ghost",
+					"photo" : "https://media.pokemoncentral.it/wiki/thumb/d/d7/Artwork105A_SL.png/1024px-Artwork105A_SL.png"
+				}
+			},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/a/ae/Artwork105_RFVF.png/300px-Artwork105_RFVF.png"
+		},
+		{
+			"nPokedex" : "106",
+			"name" : "Hitmonlee",
+			"type1" : "Fighting",
+			"type2" : "",
+			"gender" : ["male"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/d/d1/Artwork106_RFVF.png/300px-Artwork106_RFVF.png"
+		},
+		{
+			"nPokedex" : "107",
+			"name" : "Hitmonchan",
+			"type1" : "Fighting",
+			"type2" : "",
+			"gender" : ["male"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/3/31/Artwork107_RFVF.png/300px-Artwork107_RFVF.png"
+		},
+		{
+			"nPokedex" : "108",
+			"name" : "Lickitung",
+			"type1" : "Normal",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/8/8d/Artwork108_RFVF.png/300px-Artwork108_RFVF.png"
+		},
+		{
+			"nPokedex" : "109",
+			"name" : "Koffing",
+			"type1" : "Poison",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/8/81/Artwork109_RFVF.png/300px-Artwork109_RFVF.png"
+		},
+		{
+			"nPokedex" : "110",
+			"name" : "Weezing",
+			"type1" : "Water",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {
+				"a" :{
+					"name" : "Galar",
+					"type1" : "Poison",
+					"type2" : "Fairy",
+					"photo" : "https://media.pokemoncentral.it/wiki/thumb/0/02/Artwork110G_SpSc.png/1024px-Artwork110G_SpSc.png"
+				}
+			},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/6/63/Artwork110_RFVF.png/300px-Artwork110_RFVF.png"
+		},
+		{
+			"nPokedex" : "111",
+			"name" : "Rhyhorn",
+			"type1" : "Ground",
+			"type2" : "Rock",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/4/4a/Artwork111_RFVF.png/300px-Artwork111_RFVF.png"
+		},
+		{
+			"nPokedex" : "112",
+			"name" : "Rhydon",
+			"type1" : "Ground",
+			"type2" : "Rock",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/3/3a/Artwork112_RFVF.png/300px-Artwork112_RFVF.png"
+		},
+		{
+			"nPokedex" : "113",
+			"name" : "Chansey",
+			"type1" : "Normal",
+			"type2" : "",
+			"gender" : ["female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/b/ba/Artwork113_RFVF.png/300px-Artwork113_RFVF.png"
+		},
+		{
+			"nPokedex" : "114",
+			"name" : "Tangela",
+			"type1" : "Grass",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/0/09/Artwork114_RFVF.png/300px-Artwork114_RFVF.png"
+		},
+		{
+			"nPokedex" : "115",
+			"name" : "Kangaskhan",
+			"type1" : "Normal",
+			"type2" : "",
+			"gender" : ["female"],
+			"forms" : {
+				"a" :{
+					"name" : "Mega",
+					"type1" : "Normal",
+					"type2" : "",
+					"photo" : "https://media.pokemoncentral.it/wiki/9/93/Artwork115M_XY.png"
+				}
+			},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/c/c3/Artwork115_RFVF.png/300px-Artwork115_RFVF.png"
+		},
+		{
+			"nPokedex" : "116",
+			"name" : "Horsea",
+			"type1" : "Water",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/a/aa/Artwork116_RFVF.png/300px-Artwork116_RFVF.png"
+		},
+		{
+			"nPokedex" : "117",
+			"name" : "Seadra",
+			"type1" : "Water",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/f/fb/Artwork117_RFVF.png/300px-Artwork117_RFVF.png"
+		},
+		{
+			"nPokedex" : "118",
+			"name" : "Goldeen",
+			"type1" : "Water",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/1/11/Artwork118_RFVF.png/300px-Artwork118_RFVF.png"
+		},
+		{
+			"nPokedex" : "119",
+			"name" : "Seaking",
+			"type1" : "Water",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/3/3e/Artwork119_RFVF.png/300px-Artwork119_RFVF.png"
+		},
+		{
+			"nPokedex" : "120",
+			"name" : "Staryu",
+			"type1" : "Water",
+			"type2" : "",
+			"gender" : [],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/8/87/Artwork120_RFVF.png"
+		},
+		{
+			"nPokedex" : "121",
+			"name" : "Starmie",
+			"type1" : "Water",
+			"type2" : "Psychic",
+			"gender" : [],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/5/5c/Artwork121_RFVF.png/300px-Artwork121_RFVF.png"
+		},
+		{
+			"nPokedex" : "122",
+			"name" : "Mr. Mime",
+			"type1" : "Psychic",
+			"type2" : "Fairy",
+			"gender" : ["male", "female"],
+			"forms" : {
+				"a" :{
+					"name" : "Galar",
+					"type1" : "Ice",
+					"type2" : "Psychic",
+					"photo" : "https://media.pokemoncentral.it/wiki/b/bc/Artwork122G_SpSc.png"
+				}
+			},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/c/c7/Artwork122_RFVF.png/300px-Artwork122_RFVF.png"
+		},
+		{
+			"nPokedex" : "123",
+			"name" : "Scyther",
+			"type1" : "Bug",
+			"type2" : "Flying",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/6/6c/Artwork123_RFVF.png/300px-Artwork123_RFVF.png"
+		},
+		{
+			"nPokedex" : "124",
+			"name" : "Jynx",
+			"type1" : "Ice",
+			"type2" : "Psychic",
+			"gender" : ["female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/5/5d/Artwork124_RFVF.png/300px-Artwork124_RFVF.png"
+		},
+		{
+			"nPokedex" : "125",
+			"name" : "Electabuzz",
+			"type1" : "Electric",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/8/8f/Artwork125_RFVF.png/300px-Artwork125_RFVF.png"
+		},
+		{
+			"nPokedex" : "126",
+			"name" : "Magmar",
+			"type1" : "Fire",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/8/8b/Artwork126_RFVF.png/300px-Artwork126_RFVF.png"
+		},
+		{
+			"nPokedex" : "127",
+			"name" : "Pinsir",
+			"type1" : "Bug",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {
+				"a" :{
+					"name" : "Mega",
+					"type1" : "Bug",
+					"type2" : "Flying",
+					"photo" : "https://media.pokemoncentral.it/wiki/4/40/Artwork127M_XY.png"
+				}
+			},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/3/3b/Artwork127_RFVF.png/300px-Artwork127_RFVF.png"
+		},
+		{
+			"nPokedex" : "128",
+			"name" : "Tauros",
+			"type1" : "Normal",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {
+				"a" :{
+					"name" : "Paldean (Combat Breed)",
+					"type1" : "Fighting",
+					"type2" : "",
+					"photo" : "https://archives.bulbagarden.net/media/upload/2/25/0128Tauros-Paldea_Combat.png"
+				},
+				"b" :{
+					"name" : "Paldean (Blaze Breed)",
+					"type1" : "Fighting",
+					"type2" : "Fire",
+					"photo" : "https://archives.bulbagarden.net/media/upload/f/f5/0128Tauros-Paldea_Blaze.png"
+				},
+				"c" :{
+					"name" : "Paldean (Aqua Breed)",
+					"type1" : "Fighting",
+					"type2" : "Water",
+					"photo" : "https://archives.bulbagarden.net/media/upload/d/d9/0128Tauros-Paldea_Aqua.png"
+				}
+			},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/7/75/Artwork128_RFVF.png/300px-Artwork128_RFVF.png"
+		},
+		{
+			"nPokedex" : "129",
+			"name" : "Magikarp",
+			"type1" : "Water",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/d/d3/Artwork129_RFVF.png/300px-Artwork129_RFVF.png"
+		},
+		{
+			"nPokedex" : "130",
+			"name" : "Gyarados",
+			"type1" : "Water",
+			"type2" : "Flying",
+			"gender" : ["male", "female"],
+			"forms" : {
+				"a" :{
+					"name" : "Mega",
+					"type1" : "Water",
+					"type2" : "Dark",
+					"photo" : "https://media.pokemoncentral.it/wiki/7/74/Artwork130M_XY.png"
+				}
+			},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/1/1f/Artwork130_RFVF.png/300px-Artwork130_RFVF.png"
+		},
+		{
+			"nPokedex" : "131",
+			"name" : "Lapras",
+			"type1" : "Water",
+			"type2" : "Ice",
+			"gender" : ["male", "female"],
+			"forms" : {
+				"a" :{
+					"name" : "Gigamax",
+					"type1" : "Water",
+					"type2" : "Ice",
+					"photo" : "https://media.pokemoncentral.it/wiki/b/b5/Artwork131Gi_SpSc.png"
+				}
+			},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/a/ac/Artwork131_RFVF.png/300px-Artwork131_RFVF.png"
+		},
+		{
+			"nPokedex" : "132",
+			"name" : "Ditto",
+			"type1" : "Normal",
+			"type2" : "",
+			"gender" : [],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/0/0f/Artwork132_RFVF.png/300px-Artwork132_RFVF.png"
+		},
+		{
+			"nPokedex" : "133",
+			"name" : "Eevee",
+			"type1" : "Normal",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {
+				"a" :{
+					"name" : "Gigamax",
+					"type1" : "Normal",
+					"type2" : "",
+					"photo" : "https://media.pokemoncentral.it/wiki/thumb/b/bb/Artwork133Gi_SpSc.png/1024px-Artwork133Gi_SpSc.png"
+				}
+			},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/e/ea/Artwork133_RFVF.png/300px-Artwork133_RFVF.png"
+		},
+		{
+			"nPokedex" : "134",
+			"name" : "Vaporeon",
+			"type1" : "Water",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/6/65/Artwork134_RFVF.png/300px-Artwork134_RFVF.png"
+		},
+		{
+			"nPokedex" : "135",
+			"name" : "Jolteon",
+			"type1" : "Electric",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/0/03/Artwork135_RFVF.png/300px-Artwork135_RFVF.png"
+		},
+		{
+			"nPokedex" : "136",
+			"name" : "Flareon",
+			"type1" : "Fire",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/3/31/Artwork136_RFVF.png/300px-Artwork136_RFVF.png"
+		},
+		{
+			"nPokedex" : "137",
+			"name" : "Porygon",
+			"type1" : "Normal",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/9/90/Artwork137_RFVF.png/300px-Artwork137_RFVF.png"
+		},
+		{
+			"nPokedex" : "138",
+			"name" : "Omanyte",
+			"type1" : "Rock",
+			"type2" : "Water",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/2/29/Artwork138_RFVF.png/300px-Artwork138_RFVF.png"
+		},
+		{
+			"nPokedex" : "139",
+			"name" : "Omastar",
+			"type1" : "Rock",
+			"type2" : "Water",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/2/2b/Artwork139_RFVF.png/300px-Artwork139_RFVF.png"
+		},
+		{
+			"nPokedex" : "140",
+			"name" : "Kabuto",
+			"type1" : "Rock",
+			"type2" : "Water",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/c/c7/Artwork140_RFVF.png/300px-Artwork140_RFVF.png"
+		},
+		{
+			"nPokedex" : "141",
+			"name" : "Kabutops",
+			"type1" : "Rock",
+			"type2" : "Water",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/b/bd/Artwork141_RFVF.png/300px-Artwork141_RFVF.png"
+		},
+		{
+			"nPokedex" : "142",
+			"name" : "Aerodactyl",
+			"type1" : "Rock",
+			"type2" : "Flying",
+			"gender" : ["male", "female"],
+			"forms" : {
+				"a" :{
+					"name" : "Mega",
+					"type1" : "Rock",
+					"type2" : "Flying",
+					"photo" : "https://media.pokemoncentral.it/wiki/3/3d/Artwork142M_XY.png"
+				}
+			},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/7/71/Artwork142_RFVF.png/300px-Artwork142_RFVF.png"
+		},
+		{
+			"nPokedex" : "143",
+			"name" : "Snorlax",
+			"type1" : "Normal",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {
+				"a" :{
+					"name" : "Gigamax",
+					"type1" : "Normal",
+					"type2" : "",
+					"photo" : "https://media.pokemoncentral.it/wiki/thumb/f/f1/Artwork143Gi_SpSc.png/1024px-Artwork143Gi_SpSc.png"
+				}
+			},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/8/8b/Artwork143_RFVF.png/300px-Artwork143_RFVF.png"
+		},
+		{
+			"nPokedex" : "144",
+			"name" : "Articuno",
+			"type1" : "Ice",
+			"type2" : "Flying",
+			"gender" : [],
+			"forms" : {
+				"a" :{
+					"name" : "Galar",
+					"type1" : "Psychic",
+					"type2" : "Flying",
+					"photo" : "https://media.pokemoncentral.it/wiki/thumb/c/c2/Artwork144G_SpSc.png/1024px-Artwork144G_SpSc.png"
+				}
+			},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/4/41/Artwork144_RFVF.png/300px-Artwork144_RFVF.png"
+		},
+		{
+			"nPokedex" : "145",
+			"name" : "Zapdos",
+			"type1" : "Electric",
+			"type2" : "Flying",
+			"gender" : [],
+			"forms" : {
+				"a" :{
+					"name" : "Galar",
+					"type1" : "Fighting",
+					"type2" : "Flying",
+					"photo" : "https://media.pokemoncentral.it/wiki/thumb/2/20/Artwork145G_SpSc.png/1024px-Artwork145G_SpSc.png"
+				}
+			},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/4/4e/Artwork145_RFVF.png/300px-Artwork145_RFVF.png"
+		},
+		{
+			"nPokedex" : "146",
+			"name" : "Moltres",
+			"type1" : "Fire",
+			"type2" : "Flying",
+			"gender" : [],
+			"forms" : {
+				"a" :{
+					"name" : "Galar",
+					"type1" : "Dark",
+					"type2" : "Flying",
+					"photo" : "https://media.pokemoncentral.it/wiki/thumb/2/2c/Artwork146G_SpSc.png/1024px-Artwork146G_SpSc.png"
+				}
+			},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/f/f3/Artwork146_RFVF.png/300px-Artwork146_RFVF.png"
+		},
+		{
+			"nPokedex" : "147",
+			"name" : "Dratini",
+			"type1" : "Dragon",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/f/f6/Artwork147_RFVF.png/300px-Artwork147_RFVF.png"
+		},
+		{
+			"nPokedex" : "148",
+			"name" : "Dragonair",
+			"type1" : "Dragon",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/9/9e/Artwork148_RFVF.png/300px-Artwork148_RFVF.png"
+		},
+		{
+			"nPokedex" : "149",
+			"name" : "Dragonite",
+			"type1" : "Dragon",
+			"type2" : "Flying",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/f/fc/Artwork149_RFVF.png/300px-Artwork149_RFVF.png"
+		},
+		{
+			"nPokedex" : "150",
+			"name" : "Mewtwo",
+			"type1" : "Psychic",
+			"type2" : "",
+			"gender" : [],
+			"forms" : {
+				"a" :{
+					"name" : "Mega X",
+					"type1" : "Psychic",
+					"type2" : "Fighting",
+					"photo" : "https://media.pokemoncentral.it/wiki/thumb/9/95/Artwork150MX_XY.png/1024px-Artwork150MX_XY.png"
+				},
+				"b" :{
+					"name" : "Mega Y",
+					"type1" : "Psychic",
+					"type2" : "",
+					"photo" : "https://media.pokemoncentral.it/wiki/thumb/e/e0/Artwork150MY_XY.png/1024px-Artwork150MY_XY.png"
+				}
+			},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/2/27/Artwork150_RFVF.png/300px-Artwork150_RFVF.png"
+		},
+		{
+			"nPokedex" : "151",
+			"name" : "Mew",
+			"type1" : "Psychic",
+			"type2" : "",
+			"gender" : [],
+			"forms" : {},
+			"photo" : "https://media.pokemoncentral.it/wiki/thumb/1/19/Artwork151_RFVF.png/300px-Artwork151_RFVF.png"
+		},
+		{
+			"nPokedex" : "7",
+			"name" : "Squirtle",
+			"type1" : "Water",
+			"type2" : "",
+			"gender" : ["male", "female"],
+			"forms" : {},
+			"photo" : ""
+		}
+	]
+}

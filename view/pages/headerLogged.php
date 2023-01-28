@@ -12,15 +12,35 @@
     include($lang_path);
 ?>
 
+
+
 <!-- Navbar -->
 <div class="navbar navbar-light bg-light navbar-expand-md px-3">
 
     <?php
         $index_path = '';
+        $signup_path = "";
+        $help_path = "";
+        $about_path = "";
+        $news_path = "";
+        $partners_path = "";
+        $profile_img_path = "";
         if(file_exists('index.php')){
             $index_path = 'index.php';
+            $signup_path = "view/pages/registration.php";
+            $help_path = "view/pages/help.php";
+            $about_path = "view/pages/about.php";
+            $news_path = "view/pages/news.php";
+            $partners_path = "view/pages/partners.php";
+            $profile_img_path = "assets/flags/en.png";
         }else {
             $index_path = '../../index.php';
+            $signup_path = "registration.php";
+            $help_path = "help.php";
+            $about_path = "about.php";
+            $news_path = "news.php";
+            $partners_path = "partners.php";
+            $profile_img_path = "../../assets/flags/en.png";
         }
     ?>
 
@@ -42,29 +62,36 @@
     <div class="navbar-collapse collapse" id="menu">
         <ul class="navbar-nav ms-auto" style="list-style:none">
             <li class="nav-item mx-3">
-                <a href="#" class="nav-link"><?php echo $home?></a>
+                <a href=<?php echo $index_path ?> class="nav-link"><?php echo $home?></a>
             </li>
             <li class="nav-item mx-3">
-                <a href="#" class="nav-link"><?php echo $help?></a>
+                <a href=<?php echo $help_path ?> class="nav-link"><?php echo $help?></a>
             </li>
             <li class="nav-item mx-3">
-                <a href="#" class="nav-link"><?php echo $about?></a>
+                <a href=<?php echo $about_path ?> class="nav-link" ><?php echo $about?></a>
             </li>
             <li class="nav-item mx-3">
-                <a href="model/user/logout.php" class="nav-link"><?php echo $signout?></a>
+                <a href="#" class="nav-link notification"><i class="bi bi-bell-fill"></i>34</a>
             </li>
             <li class="nav-item mx-3">
-            
-                    <form class="d-flex" action="view/pages/registration.php">
-                        <button class="btn btn-outline-dark" type="submit">
-                        <?php echo $signup?>
-                        </button>
-                    </form>
+                <a href="#" class="nav-link notification"><i class="bi bi-chat-right-text-fill"></i>34</a>
             </li>
             <li class="nav-item mx-3">
-                <a class="nav-link">
+                <img src=<?php echo $profile_img_path ?> class="rounded-circle" alt=<?php echo $profile?> width="50" height="50"> 
+            </li>
+
+            <li class="nav-item mx-3">
+                <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
                     <i class="bi bi-three-dots-vertical"></i>
                 </a>
+                <ul class="dropdown-menu">
+                    <li><a class="dropdown-item" href=<?php echo $index_path ?>><i class="bi bi-house-door-fill"></i> <?php echo $home?></a></li>
+                    <!--<li><a class="dropdown-item" href="#"><i class="bi bi-moon-fill"></i> <?php //echo $dmode?></a></li>-->
+                    <li><a class="dropdown-item" href=<?php echo $news_path ?>><i class="bi bi-file-text-fill"></i> <?php echo $news?></a></li>
+                    <li><a class="dropdown-item" href=<?php echo $partners_path ?>><i class="bi bi-diamond-fill"></i> <?php echo $partners?></a></li>
+                    <li><a class="dropdown-item" href="model/user/logout.php"><i class="bi bi-arrow-bar-right"></i> <?php echo $signout?></a></li>
+                    <li><a class="dropdown-item" data-bs-toggle="modal" data-bs-target="#languageModal"><img src=<?php echo "https://img.icons8.com/color/48/null/" . $flag . "-circular.png"?> width="16" height="16"/> <?php echo $languages?></a></li>
+                </ul>
             </li>
         </ul>
     </div>
@@ -73,9 +100,34 @@
 <!-- Header-->
 <header class="bg-dark py-5">
             <div class="container px-4 px-lg-5 my-5">
-                <div class="text-center text-white">
+                <div class="text-center text-white"  >
                     <h1 class="display-4 fw-bolder">Shop in style</h1>
                     <p class="lead fw-normal text-white-50 mb-0">With this shop hompeage template</p>
                 </div>
             </div>
-        </header>
+</header>
+
+<!-- The Modal -->
+<div class="modal" id="languageModal">
+  <div class="modal-dialog modal-sm">
+    <div class="modal-content">
+
+    <!-- Modal Header -->
+    <div class="modal-header">
+        <h4 class="modal-title"><?php echo $languages . ":"?></h4>
+        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+      </div>
+
+      <!-- Modal body -->
+      <div class="modal-body">
+        <ul style="list-style-type: none">
+            <li><a class="dropdown-item" id="en" onclick="changeLanguage(this.id)"><img src=<?php echo "https://img.icons8.com/color/48/null/great-britain-circular.png"?> width="16" height="16"/> English (UK)</a></li>
+            <li><a class="dropdown-item" id="it" onclick="changeLanguage(this.id)"><img src=<?php echo "https://img.icons8.com/color/48/null/italy-circular.png"?> width="16" height="16"/> Italiano (IT)</a></li>
+            <li><a class="dropdown-item" id="fr" onclick="changeLanguage(this.id)"><img src=<?php echo "https://img.icons8.com/color/48/null/spain-circular.png"?> width="16" height="16"/> Espanol (ES)</a></li>
+            <li><a class="dropdown-item" id="fr" onclick="changeLanguage(this.id)"><img src=<?php echo "https://img.icons8.com/color/48/null/france-circular.png"?> width="16" height="16"/> Francais (FR)</a></li>
+        </ul>
+      </div>
+
+    </div>
+  </div>
+</div>

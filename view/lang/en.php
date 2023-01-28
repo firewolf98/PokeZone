@@ -5,5 +5,12 @@
     $signin = "Sign In";
     $signup = "Sign Up";
     $signout = "Sign Out";
-    $search = "Search..."
+    $search = "Search...";
+    $dmode = "Dark mode";
+    $news = "News";
+    $settings = "Settings";
+    $languages = "Language";
+    $flag = "great-britain";
+    $partners = "Partners";
+    $profile = "Profile";
 ?>

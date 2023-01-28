@@ -1,0 +1,11 @@
+.dropdown-toggle::after {
+    content: none;
+}
+
+.dropdown-menu[data-bs-popper] {
+    right: 0;
+    left:auto;
+    margin-top: 0;
+    border-radius: 10px;
+}
+
