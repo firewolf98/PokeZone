@@ -1,5 +1,23 @@
-CREATE TABLE 'Users'(
+CREATE TABLE users(
 	email VARCHAR(319) NOT NULL,
     password varchar(100) NOT NULL,
     PRIMARY KEY(email)
+);
+
+CREATE TABLE pokemon(
+  	id int NOT NULL AUTO_INCREMENT,
+    user varchar(319) NOT NULL,
+    pokemon int NOT NULL,
+    form varchar(2),
+    shiny boolean DEFAULT false,
+    game varchar(20) NOT NULL,
+    lvl int NOT NULL,
+    item int default 0,
+    ability varchar(20),
+    nature varchar(20),
+    lang char(2),
+    gender char(1) default 'u',
+    required int,
+    notes varchar(100),
+    PRIMARY KEY(id)
 );

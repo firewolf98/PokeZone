@@ -51,6 +51,33 @@
         section {
             background-image: url(<?php echo $background_path?>);
         }
+
+        .card-img-top{
+            background-color: lavender;
+        }
+
+        .card{
+            background-color: antiquewhite
+        }
+
+        #types{
+            background-color: lightsalmon;
+        }
+
+        .text-container {
+            color:black;
+            font-weight: bold;
+            background:antiquewhite;
+            border-radius: 20px;
+            padding: 0 10px;
+            font-size: large;
+        }
+
+        #last-pokemon-container {
+            border-radius: 20px;
+            border-style: solid;
+            border-width: 1px;
+        }
     </style>
 
     <a href=<?php echo $index_path ?> class="navbar-brand">
